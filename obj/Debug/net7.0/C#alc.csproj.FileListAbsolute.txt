@@ -1,0 +1,15 @@
+D:\Backup\Projects\C#alc\bin\Debug\net7.0\C#alc.exe
+D:\Backup\Projects\C#alc\bin\Debug\net7.0\C#alc.deps.json
+D:\Backup\Projects\C#alc\bin\Debug\net7.0\C#alc.runtimeconfig.json
+D:\Backup\Projects\C#alc\bin\Debug\net7.0\C#alc.dll
+D:\Backup\Projects\C#alc\bin\Debug\net7.0\C#alc.pdb
+D:\Backup\Projects\C#alc\obj\Debug\net7.0\C#alc.csproj.AssemblyReference.cache
+D:\Backup\Projects\C#alc\obj\Debug\net7.0\C#alc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Projects\C#alc\obj\Debug\net7.0\C#alc.AssemblyInfoInputs.cache
+D:\Backup\Projects\C#alc\obj\Debug\net7.0\C#alc.AssemblyInfo.cs
+D:\Backup\Projects\C#alc\obj\Debug\net7.0\C#alc.csproj.CoreCompileInputs.cache
+D:\Backup\Projects\C#alc\obj\Debug\net7.0\C#alc.dll
+D:\Backup\Projects\C#alc\obj\Debug\net7.0\refint\C#alc.dll
+D:\Backup\Projects\C#alc\obj\Debug\net7.0\C#alc.pdb
+D:\Backup\Projects\C#alc\obj\Debug\net7.0\C#alc.genruntimeconfig.cache
+D:\Backup\Projects\C#alc\obj\Debug\net7.0\ref\C#alc.dll
